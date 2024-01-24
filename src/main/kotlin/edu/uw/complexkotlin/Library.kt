@@ -80,3 +80,11 @@ enum class Philosopher {
 class Command(val prompt: String) {
     operator fun invoke(message: String) = "$prompt$message"
 }
+
+
+/*
+Seneca the Younger, also known as Lucius Annaeus Seneca, was a Roman Stoic philosopher, statesman, and playwright.
+He is commonly associated with Stoicism, a school of Hellenistic philosophy.
+
+Stoicism is a philosophy that emphasizes the development of self-control and fortitude as a way to overcome negative emotions and lead virtuous lives in harmony with the natural world.
+*/
